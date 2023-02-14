@@ -11,5 +11,6 @@ setup(
         "Bug Tracker": "https://github.com/SirDank/UnityPackFF/issues",
     },
     license="MIT",
+    package_dir={"": "."},
     keywords=["unity","unitypack","unitypackff"],
 )
