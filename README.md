@@ -1,3 +1,9 @@
+# 🚨 Quick Install 🚨
+
+```
+pip install unitypackff
+```
+
 # UnityPackFF
 
 UnityPackFF is a fork of [UnityPack](https://github.com/HearthSim/UnityPack/) specialized for working with FusionFall assets.
