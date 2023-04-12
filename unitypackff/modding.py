@@ -1,5 +1,6 @@
 from io import BytesIO
-from wand.image import Image
+#from wand.image import Image
+import wand
 
 from .utils import BinaryWriter
 from .object import FFOrderedDict
@@ -25,7 +26,7 @@ def import_texture(obj, imgpath, name=None, fmt='dxt1'):
 	if not isinstance(obj, Object):
 		raise ValueError('Invalid target object')
 
-	img = Image(filename=imgpath)
+	img = wand.image.Image(filename=imgpath)
 
 	if name is not None:
 		obj.name = name
