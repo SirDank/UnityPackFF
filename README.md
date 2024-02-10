@@ -1,3 +1,15 @@
+<p align="center">
+  <b>~ Visits ~</b><br><br>
+  <img src="https://profile-counter.glitch.me/unitypackff/count.svg" />
+</p>
+
+<p align="center">
+  <b>~ Stats ~</b><br><br>
+  <img src="https://static.pepy.tech/badge/unitypackff" />
+  <img src="https://static.pepy.tech/badge/unitypackff/month" />
+  <img src="https://static.pepy.tech/badge/unitypackff/week" />
+</p>
+
 # 🚨 Quick Install 🚨
 
 ```
